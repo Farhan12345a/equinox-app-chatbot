@@ -63,3 +63,5 @@ Flow:
 - **Gradio** (UI)
 - **SQLite** (data storage)
 - **Pillow** (image handling)
+
+Inspired by Ed Donner's LLM Engineering course on Udemy
