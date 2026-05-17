@@ -63,7 +63,3 @@ Flow:
 - **Gradio** (UI)
 - **SQLite** (data storage)
 - **Pillow** (image handling)
-
----
-
-## 📁 Project Structure
